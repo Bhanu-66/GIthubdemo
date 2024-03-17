@@ -1,2 +1,2 @@
 # GIthubdemo
-#My name us bhanu
+#My name is bhanu
